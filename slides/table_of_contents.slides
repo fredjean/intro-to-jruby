@@ -1,14 +1,31 @@
-h1. The Codex System
+h1. Introduction to JRuby
 
-h1. Creating Content
+h1. Introduction
 
-* "The Basics":basics.html
-* "Including Code":including_code.html
+* Introduction:intro.html
 
-h1. Creating Slideshows
+h1. Ruby Quick Tour
 
-* "Building and Displaying HTML":building.html
+* Ruby
+* Java VS Ruby Hello World:helloworld.html
+* Everything is an object
+* Lists and Hashes
+* Iterating collections
+* Blocks
+* Classes and modules
+* Open Classes
+* Ruby Gems
 
-h1. An Example     
+h1. JRuby: Ruby + Java
 
-* "Some Sample Slides":example.html
+* JRuby Hello World
+* Calling Java from JRuby
+* Calling Ruby from Java
+
+h1. Where to use JRuby
+
+* Builds
+* Testing
+* Ruby on Rails
+
+h1. Conclusion
