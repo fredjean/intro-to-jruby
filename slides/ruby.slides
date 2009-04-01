@@ -4,3 +4,17 @@ h1. Ruby
 * Strongly Typed
 * Everything Is An Object
 
+h1. Dynamic Typing
+
+* Variables are not typed
+* Type is evaluated at run-time
+* Message passing
+* Duck Typing
+
+h1. Strongly Typed
+
+* Everything has a type
+
+:code code/ruby_type.rb
+
+
