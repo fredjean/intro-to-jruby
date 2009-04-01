@@ -23,8 +23,10 @@ h1. JRuby: Ruby + Java
 
 h1. Where to use JRuby
 
-* Builds
-* Testing
-* Ruby on Rails
+* Builds:builds.html
+* Testing:testing.html
+* Ruby on Rails:rails.html
 
 h1. Conclusion
+
+* Conclusion:conclusion.html
