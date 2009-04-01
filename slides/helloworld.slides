@@ -1,8 +1,17 @@
-h1. JRuby is Co
-
-h1. Ruby vs Java Hello World
+h1. Java and Ruby Hello World
 
 :code code/HelloWorld.java
 
 :code code/hello_world.rb
+
+h1. Java vs Ruby
+
+<div style="float: left; width: 50%">
+:code code/Point.java
+</div>
+<div style="float:right; width: 50%">
+:code code/point.rb
+</div>
+
+
 

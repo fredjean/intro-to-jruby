@@ -6,21 +6,20 @@ h1. Introduction
 
 h1. Ruby Quick Tour
 
-* Ruby
+* Ruby:ruby.html
 * Java VS Ruby Hello World:helloworld.html
-* Everything is an object
-* Lists and Hashes
-* Iterating collections
-* Blocks
-* Classes and modules
-* Open Classes
-* Ruby Gems
+* Everything is an object:object.html
+* Lists and Hashes:lists.html
+* Iterating collections:iterating.html
+* Blocks:blocks.html
+* Classes and modules:classes.html
+* Ruby Gems:gems.html
 
 h1. JRuby: Ruby + Java
 
-* JRuby Hello World
-* Calling Java from JRuby
-* Calling Ruby from Java
+* JRuby Hello World:jruby_hello.html
+* Calling Java from JRuby:java_from_jruby.html
+* Calling Ruby from Java:ruby_from_java.html
 
 h1. Where to use JRuby
 
