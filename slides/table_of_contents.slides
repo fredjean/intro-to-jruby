@@ -6,9 +6,8 @@ h1. Introduction
 
 h1. Ruby Quick Tour
 
-* Ruby:ruby.html
+* Ruby Basics:ruby.html
 * Java VS Ruby Hello World:helloworld.html
-* Everything is an object:object.html
 * Lists and Hashes:lists.html
 * Iterating collections:iterating.html
 * Blocks:blocks.html
@@ -25,6 +24,7 @@ h1. Where to use JRuby
 
 * Builds:builds.html
 * Testing:testing.html
+* jmx4r:jmx4r.html
 * Ruby on Rails:rails.html
 
 h1. Conclusion

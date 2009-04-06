@@ -5,3 +5,4 @@
 {}.class      # => Hash
 Kernel.class  # => Module
 Object.class  # => Class
+:symbol.class # => Symbol

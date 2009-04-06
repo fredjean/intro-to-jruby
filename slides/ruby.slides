@@ -17,4 +17,10 @@ h1. Strongly Typed
 
 :code code/ruby_type.rb
 
+<blockquote>Type alone is not enough to evaluate an object's capabilities</blockquote>
+
+h1. Everything is an Object
+
+<blockquote>Ruby does not have primitive values</blockquote>
+
 

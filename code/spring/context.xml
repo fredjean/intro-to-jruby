@@ -1,0 +1,14 @@
+<beans>
+  <bean id="lime"
+      class="org.springframework.scripting.jruby.JRubyScriptFactory">
+    <constructor-arg value="file:myscripts/lime.rb" />
+    <constructor-arg value="com.habuma.scripting.Lime" />
+  </bean>
+
+  <bean id="coconut"
+      class="com.habuma.scripting.Coconut">
+    <property name="lime" ref="lime" />
+  </bean>
+  
+  <bean class="org.springframework.scripting.support.ScriptFactoryPostProcessor" />
+</beans>

@@ -1,0 +1,9 @@
+h1. JRuby HelloWorld
+
+:code code/jruby_hello.rb
+
+<blockquote>JRuby gives you full access to Java Classes</blockquote>
+
+h1. Java Classes are Open
+
+:code code/integer.rb[openclass]

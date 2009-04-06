@@ -1,0 +1,5 @@
+h1. Calling Java From JRuby
+
+h1. Opening Java Classes
+
+:code code/integer.rb[openclass]
