@@ -12,3 +12,6 @@
   
   <bean class="org.springframework.scripting.support.ScriptFactoryPostProcessor" />
 </beans>
+
+<lang:jruby id="lime" script-interfaces="springruby.Lime" 
+        script-source="classpath:lime.rb"/>
